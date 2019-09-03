@@ -1,0 +1,17 @@
+language: java
+
+git:
+  depth: 3
+  
+# safelist
+branches:
+  only:
+  - master
+  - stable
+
+script:
+  - javac SortInput.java
+  - java SortInput < input.txt
+
+notifications:
+  email: false
