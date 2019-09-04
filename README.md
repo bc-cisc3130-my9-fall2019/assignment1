@@ -1,7 +1,7 @@
 # cisc3130-assignment1
 
 Instructor: Katherine Chuang \
-Section: MY8 \
+Section: MY9 \
 Brooklyn College
 
 ## Setup
