@@ -1,7 +1,7 @@
 # cisc3130-assignment1
 
 Instructor: Katherine Chuang \
-Section: TY2 \
+Section: MY8 \
 Brooklyn College
 
 ## Setup
@@ -11,7 +11,7 @@ If you've never used github.com before, create an account. You'll have to add th
 1. Go to the github classroom assignment link https://classroom.github.com/a/tInnIZ9N, it will create a repository for you. 
 2. Clone the repository to your local machine [instructions](https://help.github.com/en/articles/cloning-a-repository). If you're on a linux terminal it's `git clone <repo url>`
 3. This will save a directory with the repo name on your machine, go into that folder to find your files. If you're on a linux terminal: `cd <repo folder>` 
-3. When you're ready to upload files, save your file(s) and then you want to commit and push. [instructions](https://help.github.com/en/articles/pushing-commits-to-a-remote-repository)If you're on a linux terminal, `git add filename` followed by `git commit -m "log message"` followed by `git push origin master`
+3. When you're ready to upload files, save your file(s) and then you want to commit and push. [instructions](https://help.github.com/en/articles/pushing-commits-to-a-remote-repository) If you're on a linux terminal, `git add filename` followed by `git commit -m "log message"` followed by `git push origin master`
 
 
 
@@ -59,9 +59,9 @@ In each line you have the `true/false` value followed by a tab space, followed b
 ---
 
 ## Submission
-If possible, submit the completed work via the GitHub Classroom link. Use of this platform is still experimental, so it may or may not work. In the case that Github Classroom doesn't work - you can email me the Java source code before the deadline.  
+If possible, submit the completed work via the GitHub Classroom link. Use of this platform is still experimental, so it may or may not work. 
 
-You should submit the `*.java` file, not the compiled version. Please comment with your first and last name somewhere in that file so I can identify you for grading. 
+In the case that Github Classroom doesn't work - you can email me the Java source code before the deadline.   You should submit the `*.java` file, not the compiled version. Please comment with your first and last name somewhere in that file so I can identify you for grading. 
 
 ## Grading
 I will be looking for the following characteristics amongst other critera:
