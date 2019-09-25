@@ -96,9 +96,11 @@ ___
 
 Grading scale
 
+```
 5 - Meets all the criteria
 4 - Meets most of the criteria
 3 - Meets some of the criteria
 2 - Meets few of the criteria
 1 - Submitted but for some reason couldn't run the code
 0 - Not submitted.
+```
